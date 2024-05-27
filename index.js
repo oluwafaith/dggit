@@ -7,3 +7,4 @@
 // git branch
 // git switch
 // git checkout
+// git commit -a -m "message"
