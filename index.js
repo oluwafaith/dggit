@@ -11,5 +11,5 @@
 // git push
 // git clone
 // git remote
-// git clone
-// git remote
+// git push -u origin main
+
