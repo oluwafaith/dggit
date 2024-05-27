@@ -5,3 +5,4 @@
 // git commit
 // git log
 // git branch
+// git push -u origin main
