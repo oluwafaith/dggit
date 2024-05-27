@@ -5,3 +5,5 @@
 // git commit
 // git log
 // git branch
+// git switch
+// git checkout
