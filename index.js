@@ -5,5 +5,11 @@
 // git commit
 // git log
 // git branch
+// git switch
+// git checkout
+// git commit -a -m "message"x
+// git push
+// git clone
+// git remote
 // git push -u origin main
 // git push
