@@ -7,4 +7,7 @@
 // git branch
 // git switch
 // git checkout
-// git commit -a -m "message"
+// git commit -a -m "message"x
+// git push
+// git clone
+// git remote
